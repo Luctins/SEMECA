@@ -21,3 +21,6 @@ https://randomnerdtutorials.com/install-upycraft-ide-windows-pc-instructions/
 Pyhon 3.7: 
 https://www.python.org/downloads/
 
+
+Linguagem Arduino:
+https://github.com/knolleary/pubsubclient/tree/master/examples/mqtt_esp8266
