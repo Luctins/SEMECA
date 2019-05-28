@@ -23,7 +23,7 @@ def msg_callback(topic, msg):
 
 sta_if = network.WLAN(network.STA_IF)
 sta_if.active(True)
-sta_if.connect('netvirtua504', '123456789') #Conex茫o WIFI
+sta_if.connect('rede', 'senha_rede') #Conex茫o WIFI
 print('Tentando conexao...')
 while not sta_if.isconnected(): #Verifica莽茫o da conex茫o
     pass
