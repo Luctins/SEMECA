@@ -9,6 +9,9 @@ https://nodejs.org/en/download/
 Instalação no windows:
 https://nodered.org/docs/platforms/windows
 
+Instalação Dashboard para Node-red:
+https://flows.nodered.org/node/node-red-dashboard
+
 Pycharm:
 https://www.jetbrains.com/pycharm/download/
 
