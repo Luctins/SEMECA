@@ -18,7 +18,7 @@ https://www.jetbrains.com/pycharm/download/
 uPycraft:
 https://randomnerdtutorials.com/install-upycraft-ide-windows-pc-instructions/
 
-Arquivo bin firmaware micropython -
+Arquivo bin firmware micropython -
 ESP8266: http://micropython.org/resources/firmware/esp8266-20190529-v1.11.bin 
 
 Arquivo bin firmaware micropython -
