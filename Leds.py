@@ -84,7 +84,7 @@ def msg_callback(topic, msg):
 
 sta_if = network.WLAN(network.STA_IF)
 sta_if.active(True)
-sta_if.connect('netvirtua504', '123456789') #Conexão WIFI
+sta_if.connect('SEMECA-IOT', 'mecatronica') #Conexão WIFI
 print('Tentando conexão...')
 while not sta_if.isconnected(): #Verificação da conexão
     pass
